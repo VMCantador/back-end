@@ -1,0 +1,26 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Vézio Cantador",
+            "email": "vmc@vmc.com",
+            "senha": "123456"
+        },
+        {
+            "id": 2,
+            "nome": "João Paulo Farias",
+            "email": "joao@farias.com",
+            "senha": "123456"
+        }
+    ],
+
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Café",
+            "descricao": "Café tipo arábica",
+            "validade": "2024-12-31",
+            "preco": 16.59
+        }
+    ]
+}
