@@ -40,6 +40,13 @@
       "validade": "2023/12/02",
       "preco": "7.45",
       "id": 3
+    },
+    {
+      "nome": "Biscoito Agua e Sal",
+      "descricao": "400gr",
+      "validade": "2024/1/10",
+      "preco": "3,45",
+      "id": 4
     }
   ]
 }
