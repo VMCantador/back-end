@@ -26,6 +26,20 @@
       "descricao": "Café tipo arábica",
       "validade": "2024-12-31",
       "preco": 16.59
+    },
+    {
+      "nome": "Filtro de café",
+      "descricao": "Com 30 unidades",
+      "validade": "2024/12/10",
+      "preco": 2.15,
+      "id": 2
+    },
+    {
+      "nome": "Leite Barra",
+      "descricao": "Integral 1Lt",
+      "validade": "2023/12/02",
+      "preco": "7.45",
+      "id": 3
     }
   ]
 }
