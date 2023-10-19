@@ -4,7 +4,7 @@
       "id": 1,
       "nome": "Vézio Cantador",
       "email": "vmc@vmc.com",
-      "senha": "123456"
+      "senha": "654321"
     },
     {
       "id": 2,
@@ -13,9 +13,9 @@
       "senha": "123456"
     },
     {
-      "nome": "João Paulo Farias",
-      "email": "joaofarias@teste.com",
-      "senha": "123456",
+      "nome": "Jose de Alencar",
+      "email": "josealencar@gmail.com",
+      "senha": "124578",
       "id": 3
     }
   ],
